@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanjayKannan97
 - 👀 I’m interested in Data Analysis and visualization 
-- 🌱 I’m currently learning Data Analytics
+- 🌱 Msc in Data Analytics
 - 💞️ I’m looking to collaborate with people who can share their knowledge
 - 📫 you can reach me via email- kannansanjay97@gmail.com
 
